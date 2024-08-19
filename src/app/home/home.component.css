@@ -1,0 +1,14 @@
+.my-custom-card
+{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #424549;
+    margin: 5px;
+}
+
+.custom-icon-link
+{
+    padding: 50px;
+    vertical-align: center;
+}
