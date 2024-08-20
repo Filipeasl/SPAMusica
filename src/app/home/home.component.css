@@ -12,3 +12,22 @@
     padding: 50px;
     vertical-align: center;
 }
+
+.imgcv1
+{
+    background-image: url("/assets/images/JoshDun.jpg");
+    height: 560px;
+    background-position: 860px 655px;
+}
+
+.imgcv2
+{
+    background-image: url("/assets/images/TylerJoseph.jpg");
+    height: 560px;
+    background-position: 660px 955px;
+}
+
+.centered-text {
+    display: flex;
+    align-items: center;
+  }

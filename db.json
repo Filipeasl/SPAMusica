@@ -1,0 +1,20 @@
+{
+    "cards": [
+        { "id": 1, "title": "Twenty One Pilots", "text": "Twenty One Pilots is the band's debut album, released independently in 2009. It includes songs like \"Implicit Demand for Proof\" and \"Johnny Boy\".", "img": "https://th.bing.com/th/id/R.4dfd4376121904020ecbb89b50acbfe0?rik=r45y7%2baoq%2byXxA&riu=http%3a%2f%2f40.media.tumblr.com%2f0f5e0015540c8d8f6faf95d407a72646%2ftumblr_nushgzdQt11tijuwlo1_1280.jpg&ehk=daoc5cO0z7m3GNirMCjfqNupxf%2fnPw6M%2fM%2fcJ4Cq8ZU%3d&risl=&pid=ImgRaw&r=0" },
+        { "id": 2, "title": "Regional at Best", "text": "Regional at Best is the band's second independent album, released in 2011. Many of the songs from this album were reworked for the album Vessel.", "img": "https://img.discogs.com/zzmsVfiaH3ilR8GhYKyKpvSAwuY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12992876-1549336636-8347.jpeg.jpg" },
+        { "id": 3, "title": "Vessel", "text": "Vessel is the band's third studio album, released in 2013. It includes hits like \"Holding on to You\" and \"Car Radio\".", "img": "https://th.bing.com/th/id/OIP.FOzC0lFYPvBnElvp8UVRXwHaHa?rs=1&pid=ImgDetMain" },
+        { "id": 4, "title": "Blurryface", "text": "Blurryface is the fourth studio album, released in 2015. This album brought major hits like \"Stressed Out\" and \"Ride\".", "img": "https://i.pinimg.com/originals/7e/90/56/7e90567c4991af6e0e44b3c1847fe7d9.png" },
+        { "id": 5, "title": "Trench", "text": "Trench is the fifth studio album, released in 2018. It includes singles like \"Jumpsuit\" and \"My Blood\", exploring themes of identity and resistance.", "img": "https://images-na.ssl-images-amazon.com/images/I/81ucF7MxoeL._SL1441_.jpg" },
+        { "id": 6, "title": "Scaled and Icy", "text": "Scaled and Icy is the sixth studio album, released in 2021. The album was created during the pandemic and includes songs like \"Shy Away\" and \"Choker\".", "img": "https://theartsdesk.com/sites/default/files/mastimages/Scaled_and_Icy.jpeg" },
+        { "id": 7, "title": "Blurryface Live", "text": "Blurryface Live is the live album released in 2016, capturing the energy of the band's live shows during the Blurryface tour.", "img": "https://preview.redd.it/ygmh9y6poi8y.png?width=640&crop=smart&auto=webp&s=b4728875f46f512a878ee4a5c345dbde57d432a4" }
+    ],
+    "songs": [
+        { "id": 1, "title": "Stressed Out", "duration": "3:22" },
+        { "id": 2, "title": "Ride", "duration": "3:34" },
+        { "id": 3, "title": "Heathens", "duration": "3:15" },
+        { "id": 4, "title": "Car Radio", "duration": "4:27" },
+        { "id": 5, "title": "Tear in My Heart", "duration": "3:08" },
+        { "id": 6, "title": "Jumpsuit", "duration": "3:58" },
+        { "id": 7, "title": "Chlorine", "duration": "5:24" }
+    ]
+}
